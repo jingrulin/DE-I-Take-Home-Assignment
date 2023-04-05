@@ -45,7 +45,8 @@ Parts:
             "value_numerator": Numerator for the data value.
             "value_denominator": Denominator for the data value.
             "value": Final calculated value based on numerator and denominator.
-    ERD:
+    ERD: 
+
         ![ERD for Data Storage is drawn by draw.io](ERD for Data Storage.png)
     <br><br>
     b. Sample queries are provided in `Part 3 Data Storage.py` to answer the following requests:
@@ -55,7 +56,6 @@ Parts:
         iii. The data coverage, by entity type, compared to last year (assume that the 2020 data also exists in your tables)
         
         
-
 
 This Take Home Assignment - Data Engineer I requires technologies to manage an ETL process to load raw data to the data warehouse: Python (Pandas, advanced modules e.g., openpyxl), Apache Spark (Spark Core, Spark SQL), and Python Analytics libraries. I will set up environments and perform installations on local machines. 
 
