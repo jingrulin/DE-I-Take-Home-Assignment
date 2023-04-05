@@ -45,9 +45,9 @@ Parts:
             "value_numerator": Numerator for the data value.
             "value_denominator": Denominator for the data value.
             "value": Final calculated value based on numerator and denominator.
-    ERD:
-    
-        ![ERD](https://github.com/jingrulin/DE-I-Take-Home-Assignment/blob/main/ERD%20for%20Data%20Storage.png?raw=true)
+    ERD: 
+        <br><br>
+    ![ERD](https://github.com/jingrulin/DE-I-Take-Home-Assignment/blob/main/ERD%20for%20Data%20Storage.png?raw=true)
     <br><br>
     b. Sample queries are provided in `Part 3 Data Storage.py` to answer the following requests:
         
