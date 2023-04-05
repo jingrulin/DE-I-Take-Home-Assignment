@@ -47,7 +47,8 @@ Parts:
             "value": Final calculated value based on numerator and denominator.
     ERD: 
 
-        ![ERD for Data Storage is drawn by draw.io](https://github.com/jingrulin/DE-I-Take-Home-Assignment/blob/main/ERD%20for%20Data%20Storage.png?raw=true)
+        ![ERD for Data Storage is drawn by draw.io](https://github.com/jingrulin/DE-I-Take-Home-Assignment/blob/Revising-README.md-to-include-ERD-for-Data-Storage.png/ERD%20for%20Data%20Storage.png?raw=true)
+        
     <br><br>
     b. Sample queries are provided in `Part 3 Data Storage.py` to answer the following requests:
         
